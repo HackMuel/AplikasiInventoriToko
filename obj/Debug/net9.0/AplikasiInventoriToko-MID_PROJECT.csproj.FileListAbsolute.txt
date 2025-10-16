@@ -1,0 +1,14 @@
+/Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/obj/Debug/net9.0/AplikasiInventoriToko-MID_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/obj/Debug/net9.0/AplikasiInventoriToko-MID_PROJECT.AssemblyInfoInputs.cache
+/Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/obj/Debug/net9.0/AplikasiInventoriToko-MID_PROJECT.AssemblyInfo.cs
+/Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/obj/Debug/net9.0/AplikasiInventoriToko-MID_PROJECT.csproj.CoreCompileInputs.cache
+/Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/bin/Debug/net9.0/AplikasiInventoriToko-MID_PROJECT
+/Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/bin/Debug/net9.0/AplikasiInventoriToko-MID_PROJECT.deps.json
+/Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/bin/Debug/net9.0/AplikasiInventoriToko-MID_PROJECT.runtimeconfig.json
+/Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/bin/Debug/net9.0/AplikasiInventoriToko-MID_PROJECT.dll
+/Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/bin/Debug/net9.0/AplikasiInventoriToko-MID_PROJECT.pdb
+/Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/obj/Debug/net9.0/AplikasiInventoriToko-MID_PROJECT.dll
+/Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/obj/Debug/net9.0/refint/AplikasiInventoriToko-MID_PROJECT.dll
+/Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/obj/Debug/net9.0/AplikasiInventoriToko-MID_PROJECT.pdb
+/Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/obj/Debug/net9.0/AplikasiInventoriToko-MID_PROJECT.genruntimeconfig.cache
+/Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/obj/Debug/net9.0/ref/AplikasiInventoriToko-MID_PROJECT.dll

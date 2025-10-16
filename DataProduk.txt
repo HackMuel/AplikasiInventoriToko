@@ -1,0 +1,5 @@
+A1|Chitato|10000|10
+A2|Lays|12000|10
+C1|Pocari Sweet|7000|0
+C2|Aqua|6000|25
+C3|Ultra Milk|8000|30
