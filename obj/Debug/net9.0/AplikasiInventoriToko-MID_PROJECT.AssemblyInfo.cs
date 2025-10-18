@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AplikasiInventoriToko-MID_PROJECT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28b5c058c322a4b42ddfed59d15b5fbfb78bde49")]
 [assembly: System.Reflection.AssemblyProductAttribute("AplikasiInventoriToko-MID_PROJECT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AplikasiInventoriToko-MID_PROJECT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

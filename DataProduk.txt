@@ -1,5 +1,8 @@
-A1|Chitato|10000|10
+A1|Chitato|10000|5
 A2|Lays|12000|10
 C1|Pocari Sweet|7000|0
-C2|Aqua|6000|25
-C3|Ultra Milk|8000|30
+C2|Aqua|6000|15
+C3|Susu Beruang|8000|10
+B1|Rinso|20000|10
+B2|Mama Lemon (50ml)|7000|20
+B3|Minyak Goreng|40000|11

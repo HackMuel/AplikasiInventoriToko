@@ -12,3 +12,4 @@
 /Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/obj/Debug/net9.0/AplikasiInventoriToko-MID_PROJECT.pdb
 /Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/obj/Debug/net9.0/AplikasiInventoriToko-MID_PROJECT.genruntimeconfig.cache
 /Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/obj/Debug/net9.0/ref/AplikasiInventoriToko-MID_PROJECT.dll
+/Users/maspam/Documents/Code-Kuliah/AplikasiInventoriToko-MID_PROJECT/obj/Debug/net9.0/AplikasiInventoriToko-MID_PROJECT.sourcelink.json
